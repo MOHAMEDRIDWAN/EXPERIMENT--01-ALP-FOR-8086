@@ -2,9 +2,6 @@
 Name : MOHAMED RIDWAN A
 
 Ref no : 212223110030
-
-Date of experiment :
-
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
